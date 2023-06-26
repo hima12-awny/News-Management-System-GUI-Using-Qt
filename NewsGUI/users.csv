@@ -1,0 +1,10 @@
+name,password,role,spam,Prefrence
+hima,123,admin,*,?
+admin,123,admin,*,?
+ahm,123,user,1*2*,?
+ali,123,user,0*2*4*,CULTURE & ARTS?ENTERTAINMENT?
+moh,123,user,*,?
+anas,123,user,*,?
+mos,123,user,1*,?
+ahmed,123,user,1*,CULTURE & ARTS?
+newAdmin,123,admin,*,?
