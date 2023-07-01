@@ -27,18 +27,18 @@ The News Management Project is a desktop application that requires QT and C++ to
 
 ## Usage
 
-### Admin Part
+### Admin user
 
-The admin part of the application allows administrators to manage the news. Here are the steps to use the admin part:
+The admin functions of the application allows administrators to manage the news. Here are the steps to use the admin functionality:
 
 1. Login with admin credentials.
 2. To add news, click the "Add News" button and fill in the form.
 3. To update news, select the news from the list and click on the "Update News" button. Update the fields and click on the "Confirm" button.
 4. To remove news, select the news from the list and click on the "Remove News" button.
 
-### User Part
+### User user
 
-The user part of the application allows users to view news and interact with them. Here are the steps to use the user part:
+The user functions of the application allows users to view news and interact with them. Here are the steps to use the user functionality:
 
 1. Launch the application.
 2. Make Account by clicking "Regester".
