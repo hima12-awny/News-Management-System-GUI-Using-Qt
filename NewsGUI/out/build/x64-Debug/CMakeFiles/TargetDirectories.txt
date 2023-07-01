@@ -1,8 +1,0 @@
-K:/C++/GUI Qt/NewsGUI/out/build/x64-Debug/CMakeFiles/NewsGUI.dir
-K:/C++/GUI Qt/NewsGUI/out/build/x64-Debug/CMakeFiles/edit_cache.dir
-K:/C++/GUI Qt/NewsGUI/out/build/x64-Debug/CMakeFiles/rebuild_cache.dir
-K:/C++/GUI Qt/NewsGUI/out/build/x64-Debug/CMakeFiles/list_install_components.dir
-K:/C++/GUI Qt/NewsGUI/out/build/x64-Debug/CMakeFiles/install.dir
-K:/C++/GUI Qt/NewsGUI/out/build/x64-Debug/CMakeFiles/install/local.dir
-K:/C++/GUI Qt/NewsGUI/out/build/x64-Debug/CMakeFiles/NewsGUI_autogen_timestamp_deps.dir
-K:/C++/GUI Qt/NewsGUI/out/build/x64-Debug/CMakeFiles/NewsGUI_autogen.dir
