@@ -1,0 +1,5 @@
+name,password,role,spam,Prefrence
+admin,123,admin,*,?
+ali,123,user,3*,ENTERTAINMENT?POLITICS?
+newAdmin,123,admin,*,?
+moh,123,user,5*,POLITICS?
